@@ -10,5 +10,6 @@
 <img src="https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80">
 
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-<p>Comecei inicialmente com Python por eu ter adorado a linguagem logo de cara, atualmente eu também tenho conhecimento nas linguagens HTML CSS e Javascript <:javascript:584735430763741202></p>
+<h3>About Me</h3>
+<p>・ Comecei inicialmente com Python por eu ter adorado a linguagem logo de cara, atualmente eu também tenho conhecimento nas linguagens HTML CSS e Javascript</p>
 
