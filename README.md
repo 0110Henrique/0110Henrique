@@ -9,4 +9,4 @@ Olá eu me chamo Pedro Henrique!
 
 ## <img src="https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80">
 
-![0110 GitHub Stats](https://github-readme-stats.vercel.app/api?username=devpedro&show_icons=true&theme=dracula)
+![0110 GitHub Stats](https://github-readme-stats.vercel.app/api?username=0110&show_icons=true&theme=dracula)
