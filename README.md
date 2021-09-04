@@ -11,5 +11,9 @@
 
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-<p>・ Comecei inicialmente com Python por eu ter adorado a linguagem logo de cara, atualmente eu também tenho conhecimento nas linguagens HTML CSS e Javascript. Eu não possuo o objetivo de trabalhar na ârea da programação mas estou aberto a projetos! Gosto muito de aprender e colocar em prática os meus conhecimentos e caso você esteja com algum problema ou dificuldade pode falar comigo que eu vou ajudar no que eu puder!</p>
+<p>・ Comecei inicialmente com Python por eu ter adorado a linguagem logo de cara, atualmente eu também</p> 
+<p>・ tenho conhecimento nas linguagens HTML CSS e Javascript. Eu não possuo o objetivo de trabalhar</p> 
+<p>・ na ârea da programação mas estou aberto a projetos!  Gosto muito de aprender e colocar em prática</p>
+<p>・ os meus conhecimentos, caso você esteja com algum problema ou dificuldade</p>
+<p>・ pode falar comigo que eu vou ajudar no que eu puder!</p>
 
