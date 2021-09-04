@@ -7,3 +7,5 @@ Olá eu me chamo Pedro Henrique!
 
 ## <img src="https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80">
 
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
+
