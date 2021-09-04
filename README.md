@@ -1,6 +1,6 @@
 <h1>Desenvolvedor</h1>
 
-Olá eu me chamo Pedro Henrique!
+![https://github.com/0110Henrique](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) Olá eu me chamo Pedro Henrique!
 
 ## <img src="https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80">
 
