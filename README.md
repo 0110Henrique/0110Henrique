@@ -13,5 +13,6 @@
 
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-![Snake animation](https://res.cloudinary.com/practicaldev/image/fetch/s--0KJWQ2w1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i0wrmqnbhqdczt47iag7.gif)
+![Snake animation](![image](https://user-images.githubusercontent.com/88590972/132111204-95363653-5d63-416b-8d48-bffa1c5f020f.png)
+
 
