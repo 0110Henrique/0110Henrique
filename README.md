@@ -1,6 +1,6 @@
 <h1>Olá, Meu nome é Pedro Henrique👋</h1>
 
-<p>Desenvolvedor - Developer</p>
+<p>Programador</p>
  
 ![image](https://user-images.githubusercontent.com/88590972/132093288-0c83e39f-83e3-4490-819a-867c777a06b5.png)
 ![image](https://user-images.githubusercontent.com/88590972/132093303-90c29946-711d-420c-9e05-c450a066cf4c.png)
