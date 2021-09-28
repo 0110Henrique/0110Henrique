@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Pedro Henrique 👋</h1>
 
-- 💻 Dev
+- 💻 Developer
 - 💻 Student
 
 ![image](https://user-images.githubusercontent.com/88590972/132093288-0c83e39f-83e3-4490-819a-867c777a06b5.png)
