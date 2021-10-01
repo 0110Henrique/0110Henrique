@@ -11,7 +11,7 @@
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 #### Tools
-![image](https://user-images.githubusercontent.com/88590972/135671628-21d9bdba-e60d-409e-8cdd-81d7198f3cae.png)
+![image](https://user-images.githubusercontent.com/88590972/135671662-98e95586-f820-4465-b7a2-105cc3368a48.png)
 
 
 
