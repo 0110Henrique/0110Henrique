@@ -9,4 +9,8 @@
 ![image](https://user-images.githubusercontent.com/88590972/132093301-79012aae-3ebd-4097-a078-e4559b14a1d3.png)
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
+[]
+[]
+[x]
+
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/raw/output/github-contribution-grid-snake.svg)
