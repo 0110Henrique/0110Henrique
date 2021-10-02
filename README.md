@@ -15,6 +15,5 @@
 
 ---
 
-- GitPod
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/raw/output/github-contribution-grid-snake.svg)
