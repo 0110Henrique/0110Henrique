@@ -12,9 +12,4 @@
 
 ---
 
-![image](https://user-images.githubusercontent.com/88590972/139759482-49d81b06-5233-4d02-8b95-be65ab0f4c7b.png)
-![image](https://user-images.githubusercontent.com/88590972/139759508-04b56260-7283-44e3-8ad1-780b4cb27e0f.png)
-![image](https://user-images.githubusercontent.com/88590972/139759529-13185caf-0b40-4c29-aff3-bc5935fff53e.png)
-
-
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/raw/output/github-contribution-grid-snake.svg)
