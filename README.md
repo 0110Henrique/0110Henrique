@@ -5,7 +5,9 @@
 - 💻 13y
 
 ---
-![image](https://user-images.githubusercontent.com/88590972/139758842-71f15a89-69dd-4887-8b4c-0336e26a5561.png)
+
+![image](https://user-images.githubusercontent.com/88590972/139758883-9d1b01eb-9df9-47ee-8e57-ac048c20b6a4.png)
+
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://user-images.githubusercontent.com/88590972/135671662-98e95586-f820-4465-b7a2-105cc3368a48.png) 
 
