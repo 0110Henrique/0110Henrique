@@ -1,8 +1,8 @@
 ## Hi there, I'm Pedro Henrique 👋
 
 - 💻 Estudante
+- 💻 Dev
 - 💻 13y
-- 💻 Developer
 
 ---
 
