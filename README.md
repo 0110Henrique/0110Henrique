@@ -1,7 +1,7 @@
 ## Hi there, I'm Pedro Henrique 👋
 
-- 💻 Student
-- 💻 Developer
+- 💻 Bem vindo ao meu GitHub! Aqui estão alguns dos meus projetos envolvendo a área da programação.
+- 💻 Programador
 - 💻 13y
 
 ---
