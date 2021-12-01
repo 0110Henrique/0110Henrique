@@ -16,5 +16,3 @@
 ![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)
 
 ![img](https://camo.githubusercontent.com/2da8237927e16704d112a03ab4a976d99e3c72eb7a56a9dc1ae9c566eb2177f2/68747470733a2f2f6163656769662e636f6d2f77702d636f6e74656e742f6769662f6f7574657273706163652d35372e676966)
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/raw/output/github-contribution-grid-snake.svg)
