@@ -8,6 +8,7 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://user-images.githubusercontent.com/88590972/139758883-9d1b01eb-9df9-47ee-8e57-ac048c20b6a4.png)
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
