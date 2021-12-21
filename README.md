@@ -1,6 +1,7 @@
 ## Hi there, I'm Pedro Henrique 👋
 
 - 💻 Aqui estão alguns dos meus projetos envolvendo a área da programação.
+- 💻 A grande maioria é privada, então não ache estranho se ver poucos.
 - 💻 13y
 
 ---
