@@ -2,7 +2,6 @@
 
 - 💻 Aqui estão alguns dos meus projetos envolvendo a área da programação.
 - 💻 A grande maioria é privada, então não ache estranho se ver poucos.
-
 - 💻 Here are some of my projects involving the programming area.
 - 💻 The vast majority are private, so don't find it strange if you see a few.
 
